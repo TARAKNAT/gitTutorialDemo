@@ -4,4 +4,11 @@ this is my  first git  use 1
 3.see list command: git config --list
 4.see name command :git config user.name
 5.see status command: git status
-6.
+6.for make git repository: git init
+7.add staging area all files: git add --a
+8.how to know whai i commit : git log
+9.all folder delete command:rm -rf.git
+10.to take a file in reposatory: git clone path which we explore
+12.present working directory command: pwd
+13 list content command: ls
+14.hyy my name is tarak
