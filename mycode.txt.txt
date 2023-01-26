@@ -1,0 +1,7 @@
+this is my  first git  use 1
+1.set name command is: git config --global user.name "name"
+2.set email command is: git config --global user.email "taraknathde8@gmail.com"
+3.see list command: git config --list
+4.see name command :git config user.name
+5.see status command: git status
+6.
