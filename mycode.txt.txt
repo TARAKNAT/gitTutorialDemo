@@ -11,4 +11,8 @@ this is my  first git  use 1
 10.to take a file in reposatory: git clone path which we explore
 12.present working directory command: pwd
 13 list content command: ls
-14.hyy my name is tarak
+14.create new file : touch error.log
+15.create ignore file : .ignoregit
+16.after .ignoregit file create we paste here error.log file name so after that error .log is ignore.
+17.if we ignore all .log file so we write in ignore git file-*.log
+18.
