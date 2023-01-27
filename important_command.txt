@@ -21,4 +21,5 @@ this is my  first git  use 1
 21.rename file command: git mv "present file name" to "next name"
 22.all commit show in one line command :git log --pritty oneline
 23.all commit show in short: git log --pritty short
-24 
+24 if backup the deleted text command : git checkout -- file name
+25.
