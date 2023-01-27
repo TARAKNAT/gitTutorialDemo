@@ -17,4 +17,5 @@ this is my  first git  use 1
 17.if we ignore all .log file so we write in ignore git file-*.log
 18.staging area and working directory compare command: git diff
 19.git diff --staged
-20.
+20.remove file by git command : git rm file name
+21.rename file command: git mv "present file name" to "next name"
