@@ -15,4 +15,6 @@ this is my  first git  use 1
 15.create ignore file : .ignoregit
 16.after .ignoregit file create we paste here error.log file name so after that error .log is ignore.
 17.if we ignore all .log file so we write in ignore git file-*.log
-18.
+18.staging area and working directory compare command: git diff
+19.git diff --staged
+20.
