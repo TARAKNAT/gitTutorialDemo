@@ -21,5 +21,12 @@ this is my  first git  use 1
 21.rename file command: git mv "present file name" to "next name"
 22.all commit show in one line command :git log --pritty oneline
 23.all commit show in short: git log --pritty short
-24 if backup the deleted text command : git checkout -- file name
-25.
+
+24 in git hub copy link and paste git bASH (git remote  add origin https:......)
+25. to see link comand : git remote -v
+
+26.step by step:-
+   1.modify file then show in git bash after that
+   2.git add . press for addthi modify content then 
+   3.git commit -m "any message"
+27 and then push the file in git hub command: git push -u origin master
